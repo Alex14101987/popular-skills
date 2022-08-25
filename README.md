@@ -6,3 +6,6 @@
 The script is looking for the 20 most in-demand skills in the field of development and programming in Novosibirsk.
 The running time of this script is about 50 seconds.
 It takes 19 minutes to search for skills from all the jobs.
+
+
+p.s. нужно будет поменять библиотеку с BS на lxml и добавить asyncio
